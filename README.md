@@ -1,5 +1,7 @@
 📌 Visão Geral
+
 Atividade Decola Tech DIO AVANADE
+
 Projeto criado com Angular CLI 14.1.2 contendo:
 
 🛠️ Comandos Principais
