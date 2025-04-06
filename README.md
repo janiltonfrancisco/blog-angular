@@ -3,7 +3,6 @@ Atividade Decola Tech DIO AVANADE
 Projeto criado com Angular CLI 14.1.2 contendo:
 
 🛠️ Comandos Principais
-ng serve - Inicia servidor de desenvolvimento em http://localhost:4200
 
 Recarrega automaticamente ao editar arquivos
 
